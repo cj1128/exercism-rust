@@ -5,6 +5,8 @@
     </a>
   </h1>
 
-  <img width="400px" src="http://ww1.sinaimg.cn/large/9b85365dgy1fr1r83lu02j20xc0oxmyk">
+  <a href="https://www.rust-lang.org/en-US/">
+    <img width="400px" src="http://ww1.sinaimg.cn/large/9b85365dgy1fr1r83lu02j20xc0oxmyk">
+  </a>
 </div>
 
